@@ -1,3 +1,12 @@
+---
+title: "Defining recommendations and requirements for deposits"
+discipline: "Manager Module #5"
+track: "managers"
+order: 5
+abstract: ""
+tags: ["arena", "lights", "both"]
+---
+
 #### Sections in this module
 
 [Tutorial](#tutorial) | [How-to](#how-to) | [Reference](#reference) | [Explanation](#explanation) 
