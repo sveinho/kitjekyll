@@ -1,3 +1,12 @@
+---
+title: "Measuring progress Impact"
+discipline: "Trainer Module #4"
+track: "trainers"
+order: 4
+abstract: ""
+tags: ["evaluation", "feedback", "metrics"]
+---
+
 #### Sections in this module
 
 [Tutorial](#tutorial) | [How-to](#how-to) | [Reference](#reference) | [Explanation](#explanation) 
