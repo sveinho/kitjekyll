@@ -1,3 +1,12 @@
+---
+title: "Modul 1: Introduksjon til faget"
+track: "managers"
+order: 1
+abstract: "En kort introduksjon som forklarer de grunnleggende prinsippene i denne modulen."
+tags: ["introduksjon", "grunnkurs", "ledelse"]
+---
+
+
 #### Sections in this module
 
 [Tutorial](#tutorial) | [How-to](#how-to) | [Reference](#reference) | [Explanation](#explanation) 
