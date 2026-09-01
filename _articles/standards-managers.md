@@ -1,3 +1,12 @@
+---
+title: "Defining data standards (data governance for TDR/A)"
+discipline: "Manager Module #2"
+track: "managers"
+order: 2
+abstract: ""
+tags: ["security", "risk", "cloud"]
+---
+
 #### Sections in this module
 
 [Tutorial](#tutorial) | [How-to](#how-to) | [Reference](#reference) | [Explanation](#explanation) 
