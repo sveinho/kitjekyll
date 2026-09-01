@@ -1,9 +1,10 @@
 ---
-title: "Modul 1: Introduksjon til faget"
-track: "managers"
-order: 1
-abstract: "En kort introduksjon som forklarer de grunnleggende prinsippene i denne modulen."
-tags: ["introduksjon", "grunnkurs", "ledelse"]
+title: "Assessing Training Import"
+discipline: "Trainer Module #5"
+track: "trainers"
+order: 5
+abstract: ""
+tags: ["evaluation", "feedback", "metrics"]
 ---
 
 
