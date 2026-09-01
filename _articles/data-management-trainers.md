@@ -1,3 +1,12 @@
+---
+title: "Teaching Data Management"
+discipline: "Trainer Module #1"
+track: "trainers"
+order: 1
+abstract: ""
+tags: ["teaching", "workshop", "literacy"]
+---
+
 #### Sections in this module
 
 [Tutorial](#tutorial) | [How-to](#how-to) | [Reference](#reference) | [Explanation](#explanation) 
