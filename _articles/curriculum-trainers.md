@@ -1,3 +1,12 @@
+---
+title: "Curriculum Design for Data Literacy"
+discipline: "Trainer Module #2"
+track: "trainers"
+order: 2
+abstract: ""
+tags: ["curriculum", "workshop", "design"]
+---
+
 #### Sections in this module
 
 [Tutorial](#tutorial) | [How-to](#how-to) | [Reference](#reference) | [Explanation](#explanation) 
