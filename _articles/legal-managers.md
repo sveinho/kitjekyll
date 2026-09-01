@@ -1,3 +1,12 @@
+---
+title: "Defining Legal & Ethical aspects (data governance for TDR/A)"
+discipline: "Manager Module #4"
+track: "managers"
+order: 4
+abstract: ""
+tags: ["analytics", "dashboards", "both"]
+---
+
 
 #### Sections in this module
 
