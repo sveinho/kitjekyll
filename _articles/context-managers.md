@@ -1,3 +1,13 @@
+---
+title: "Defining context (data governance for a TDR/A)"
+discipline: "Manager Module #1"
+track: "managers"
+order: 1
+abstract: ""
+tags: ["governance", "compliance", "workflow"]
+---
+
+
 #### Sections in this module
 
 [Tutorial](#tutorial) | [How-to](#how-to) | [Reference](#reference) | [Explanation](#explanation) 
