@@ -1,3 +1,12 @@
+---
+title: "Negotiating quality optimisation - technical, metadata, contextual quality"
+discipline: "Researcher Module #6"
+track: "researchers"
+order: 6
+abstract: ""
+tags: []
+---
+
 #### Sections in this module
 
 [Tutorial](#tutorial) | [How-to](#how-to) | [Reference](#reference) | [Explanation](#explanation) 
