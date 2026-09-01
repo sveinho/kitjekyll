@@ -1,3 +1,12 @@
+---
+title: "Preparing metadata - reusing information and metadata quality"
+discipline: "Researcher Module #5"
+track: "researchers"
+order: 5
+abstract: ""
+tags: ["community watch", "community engagement", "security"]
+---
+
 #### Sections in this module
 
 [Tutorial](#tutorial) | [How-to](#how-to) | [Reference](#reference) | [Explanation](#explanation) 
