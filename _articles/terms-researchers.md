@@ -1,3 +1,12 @@
+---
+title: "Understanding rights and defining terms for reuse of the data"
+discipline: "Researcher Module #7"
+track: "researchers"
+order: 7
+abstract: ""
+tags: ["community watch", "community engagement", "security"]
+---
+
 #### Sections in this module
 
 [Tutorial](#tutorial) | [How-to](#how-to) | [Reference](#reference) | [Explanation](#explanation) 
