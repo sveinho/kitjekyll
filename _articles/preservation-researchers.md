@@ -1,3 +1,12 @@
+---
+title: "Aligning data to community norms"
+discipline: "Researcher Module #3"
+track: "researchers"
+order: 3
+abstract: ""
+tags: ["community watch", "community engagement", "security"]
+---
+
 #### Sections in this module
 
 [Tutorial](#tutorial) | [How-to](#how-to) | [Reference](#reference) | [Explanation](#explanation) 
