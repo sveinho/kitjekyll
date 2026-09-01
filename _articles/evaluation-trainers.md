@@ -1,3 +1,12 @@
+---
+title: "Measuring Training Impact"
+discipline: "Trainer Module #3"
+track: "trainers"
+order: 3
+abstract: ""
+tags: ["evaluation", "feedback", "metrics"]
+---
+
 #### Sections in this module
 
 [Tutorial](#tutorial) | [How-to](#how-to) | [Reference](#reference) | [Explanation](#explanation) 
