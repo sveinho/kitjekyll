@@ -1,3 +1,12 @@
+---
+title: "Planning reuse and data sharing in research projects"
+discipline: "Researcher Module #1"
+track: "researchers"
+order: 1
+abstract: ""
+tags: ["reuse", "sharing", "create", "collect", "quality", "metadata"]
+---
+
 #### Sections in this module
 
 [Tutorial](#tutorial) | [How-to](#how-to) | [Reference](#reference) | [Explanation](#explanation) 
