@@ -1,3 +1,12 @@
+---
+title: "Deciding on a repository for your research data"
+discipline: "Researcher Module #2"
+track: "researchers"
+order: 2
+abstract: ""
+tags: ["EDEN registry", "re3data", "trustworthyness"]
+---
+
 #### Sections in this module
 
 [Tutorial](#tutorial) | [How-to](#how-to) | [Reference](#reference) | [Explanation](#explanation) 
