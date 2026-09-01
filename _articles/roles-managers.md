@@ -1,3 +1,12 @@
+---
+title: "Defining roles and competence (data governance for a TDR/A)"
+discipline: "Manager Module #3"
+track: "managers"
+order: 3
+abstract: ""
+tags: ["analytics", "dashboards", "bi"]
+---
+
 #### Sections in this module
 
 [Tutorial](#tutorial) | [How-to](#how-to) | [Reference](#reference) | [Explanation](#explanation) 
