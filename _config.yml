@@ -1,5 +1,6 @@
 name: Mitt Kurssett
 permalink: pretty
+destination: _site
 
 collections:
   articles:
