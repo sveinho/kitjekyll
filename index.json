@@ -1,5 +1,6 @@
 ---
 layout: none
+permalink: /site/posts.json
 ---
 [
   {% for article in site.articles %}
