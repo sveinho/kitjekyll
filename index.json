@@ -4,7 +4,7 @@ layout: none
 [
   {% for article in site.articles %}
     {
-      "id": {{ article.relative_path | jsonify }},
+      "id": {{ article.relative_path | prepend: "_articles/" | jsonify }},
       "title": {{ article.title | jsonify }},
       "track": {{ article.track | jsonify }},
       "order": {{ article.order | jsonify }},
