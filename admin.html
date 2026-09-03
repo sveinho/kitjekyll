@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>GitHub CMS Admin</title>
+</head>
+<body>
+    <h2>Publish to GitHub Repo Database</h2>
+    <form id="cmsForm">
+        <input type="text" id="title" placeholder="Title" required><br><br>
+        <textarea id="content" placeholder="Body Content..." required></textarea><br><br>
+        <button type="submit">Submit Entry</button>
+    </form>
+
+    <script>
+        // CONFIGURATION VARIABLES
+        const GITHUB_USERNAME = 'your-github-username';
+        const REPO_NAME = 'my-vanilla-cms';
+        const GITHUB_PAT = 'github_pat_xxxx'; // Your Fine-Grained Repository Token
+        const SECRET_AUTH_TOKEN = 'super-secret-vanilla-token-2026'; // Matches CMS_AUTH_TOKEN
+
+        document.getElementById('cmsForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+
+            // 1. Build GitHub Dispatch URL Endpoint
+            const url = `https://github.com{GITHUB_USERNAME}/${REPO_NAME}/dispatches`;
+
+            // 2. Map payload inside custom client_payload envelope
+            const payload = {
+                event_type: 'publish_content', // Must match workflow configuration trigger
+                client_payload: {
+                    auth_token: SECRET_AUTH_TOKEN,
+                    title: document.getElementById('title').value,
+                    content: document.getElementById('content').value
+                }
+            };
+
+            // 3. Dispatch to GitHub API
+            const response = await fetch(url, {
+                method: 'POST',
+                headers: {
+                    'Accept': 'application/vnd.github+json',
+                    'Authorization': `Bearer ${GITHUB_PAT}`,
+                    'X-GitHub-Api-Version': '2022-11-28'
+                },
+                body: JSON.stringify(payload)
+            });
+
+            if (response.status === 204) {
+                alert('Success! GitHub Action triggered. Changes will appear on Git within 30-45 seconds.');
+                document.getElementById('cmsForm').reset();
+            } else {
+                alert(`Error parsing request: ${response.statusText}`);
+            }
+        });
+    </script>
+</body>
+</html>
